@@ -83,14 +83,54 @@ const certification = {
   description: "",
   items: [
     {
-      insitution: "Seebiz Pvt Ltd",
-      certification: "Trainee Software Engineer",
-      duration: "Jan, 2024 - Present",
+      insitution: "Microsoft",
+      certification: "Microsoft Certified: Azure Administrator Associate",
+      duration: "Jun, 2024 - Jun, 2025",
     },
     {
-      insitution: "Corvit System",
-      certification: "Trainee Software Engineer",
-      duration: "Jun, 2023 - Dec, 2023",
+      insitution: "Google",
+      certification: "Foundations of Project Management",
+      duration: "Mar, 2023",
+    },
+    {
+      insitution: "Stanford University",
+      certification: "Evaluations of AI Applications in Healthcare",
+      duration: "Feb, 2023",
+    },
+    {
+      insitution: "IBM",
+      certification: "Exploratory Data Analysis for Machine Learning",
+      duration: "Feb, 2023",
+    },
+    {
+      insitution: "Google",
+      certification: "Attract and Engage Customers with Digital Marketing",
+      duration: "Feb, 2023",
+    },
+    {
+      insitution: "Google",
+      certification: "Foundations of Digital Marketing and E-commerce",
+      duration: "Jan, 2023",
+    },
+    {
+      insitution: "Google",
+      certification: "Responsive Web Design in Adobe XD",
+      duration: "Jan, 2023",
+    },
+    {
+      insitution: "Google",
+      certification: "Create High-Fidelity Designs and Prototypes in Figma",
+      duration: "Dec, 2023",
+    },
+    {
+      insitution: "Google",
+      certification: "Foundations of User Experience (UX) Design",
+      duration: "Nov, 2023",
+    },
+    {
+      insitution: "Meta",
+      certification: "What is the Metaverse?",
+      duration: "Nov, 2023",
     },
   ]
 };

@@ -9,7 +9,7 @@ const services = [
     num: "01",
     title: "Web Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit, nisi  corrupti.",
+      `We offer Web Development Services to businesses of all sizes to give them a boost. Web development involves a range of tasks, it involves a range of tasks, including designing the user interface, developing the back-end functionality, and ensuring that the website or web app is responsive and user-friendly.Web development encompasses both the visual aspects of a website and its underlying technical infrastructure.`,
     href: ""  
   },
   {
