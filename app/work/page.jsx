@@ -25,21 +25,21 @@ const projects = [
     category: "frontend",
     title: "project 1",
     description:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit, nisi  corrupti.",
+      "Biuld a responsive pet shop landing page.",
     stack: [
       {
-        name: "HTML",
+        name: "React",
       },
       {
-        name: "CSS",
+        name: "Next.js",
       },
       {
-        name: "JavaScript",
+        name: "Tailwind.css",
       },
     ],
-    image: "/assets/work/thumb1.png",
-    live: "",
-    github: "",
+    image: "/assets/work/PetShop.png",
+    live: "https://pet-first.netlify.app/",
+    github: "https://github.com/farhanxaidi/petshop",
   },
   {
     num: "02",
