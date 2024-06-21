@@ -9,28 +9,28 @@ const services = [
     num: "01",
     title: "Web Development",
     description:
-      `We offer Web Development Services to businesses of all sizes to give them a boost. Web development involves a range of tasks, it involves a range of tasks, including designing the user interface, developing the back-end functionality, and ensuring that the website or web app is responsive and user-friendly.Web development encompasses both the visual aspects of a website and its underlying technical infrastructure.`,
+      `Boost your online presence with my web development services. I delivers responsive design and powerful functionality tailored for your business.`,
     href: ""  
   },
   {
     num: "02",
     title: "UI/UX Design",
     description:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit, nisi  corrupti.",
+      "Get UI/UX design perfectly aligned with your business. Our solution are designed to boost user interface and user experience.",
     href: ""  
   },
   {
     num: "03",
     title: "Digital Marketing",
     description:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit, nisi  corrupti.",
+      "Take your business to the next level with my digital marketing services. I help you implement the latest technologies for maximum impact.",
     href: ""  
   },
   {
     num: "04",
     title: "QA Testing",
     description:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit, nisi  corrupti.",
+      "I can you improve your software's reliability with our comprehensive quality assurance testing services. Reduce bugs and speed up your time to market.",
     href: ""  
   },
 ];
